@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1496875697 source:c:\users\jorge\documents\codeprojects\hss\hss.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
